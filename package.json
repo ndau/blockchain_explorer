@@ -1,6 +1,6 @@
 {
   "name": "blockchain-explorer",
-  "version": "1.3.0-staging",
+  "version": "1.4.0-staging",
   "private": true,
   "dependencies": {
     "axios": "^0.27.2",
